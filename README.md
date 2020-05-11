@@ -1,1 +1,1 @@
-# vMix_Pro_AIO_TRC4_Albania
+# vMix Pro AIO (TRC4 Albania)
