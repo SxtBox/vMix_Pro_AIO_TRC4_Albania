@@ -1,6 +1,7 @@
 # vMix Pro AIO (TRC4 Albania)
 
-    https://mega.nz/file/3DxjXbhK#PsyC93vPNX_rcDeFZH3KBod7Sv2UGshBfufv43IvUAE
+    SHARED FOLDER https://mega.nz/folder/aL5nTSxI#fwb-eyQQFgCxcjZO1M-ZtQ
+    DIRECT LINK https://mega.nz/file/3DxjXbhK#PsyC93vPNX_rcDeFZH3KBod7Sv2UGshBfufv43IvUAE
     [VERSIONS]
     vMix Pro 22.00.66
     vMix Pro 23.0.0.54
