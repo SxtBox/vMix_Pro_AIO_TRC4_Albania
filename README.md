@@ -2,6 +2,11 @@
 
     SHARED FOLDER https://mega.nz/folder/aL5nTSxI#fwb-eyQQFgCxcjZO1M-ZtQ
     DIRECT LINK https://mega.nz/file/3DxjXbhK#PsyC93vPNX_rcDeFZH3KBod7Sv2UGshBfufv43IvUAE
+    
+    MIRROR LINKS
+    https://multifilemirror.com/4qvgeyen5b6r/vMix Pro AIO (TRC4 Albania).zip.html
+    https://mirr.re/d/2CI3
+    
     [VERSIONS]
     vMix Pro 22.00.66
     vMix Pro 23.0.0.54
